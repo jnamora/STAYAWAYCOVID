@@ -1,10 +1,10 @@
-# STAYAWAYCOVID
+### STAYAWAYCOVID
 
-Case study - Understanding the privacy protocols behind the application.
+# Understanding the privacy protocols behind the application.
 
 Case Study #1 // Security and Privacy // Masters in Engineering and Data Science // Universidade de Coimbra //2023
 
-# References:
+## References:
 
 Agarwal, I., & Kim, M. (2021). DP-3T: Ensuring Cryptographic Security and Privacy In COVID-19 Contact Tracing.
 
