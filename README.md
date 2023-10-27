@@ -1,5 +1,6 @@
 # STAYAWAYCOVID
 Case study - Understanding the privacy protocols behind the application.
+Security and Privacy // Case Study #1 
 
 # References:
 
