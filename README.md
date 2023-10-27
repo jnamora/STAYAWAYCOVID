@@ -1,7 +1,8 @@
 # STAYAWAYCOVID
+
 Case study - Understanding the privacy protocols behind the application.
 
-Security and Privacy // Case Study #1 
+Case Study #1 // Security and Privacy // Masters in Engineering and Data Science // Universidade de Coimbra //2023
 
 # References:
 
