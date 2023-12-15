@@ -15,7 +15,7 @@ Liu, J. K., Au, M. H., Yuen, T. H., Zuo, C., Wang, J., Sakzad, A., ... & Choo, K
 https://tictank.pt/2020/07/21/a-insegura-aplicacao-stayway-covid/, accessed in october 2023.
 
 
-### How are Fairness and Privacy related in Machine Learning? 
+# How are Fairness and Privacy related in Machine Learning? 
 
 ## References:
 Dwork, C., & Ilvento, C. (2018). Fairness under composition. arXiv preprint arXiv:1806.06122.
